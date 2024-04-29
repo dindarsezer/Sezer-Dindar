@@ -16,7 +16,7 @@
  
  :seedling: I'm recently learning **Numpy, Pandas, Matplotlib, Seaborn, GSS, SQL, Tableau**<br><br>
 :zap: I'm dedicated to using data to make a meaningful impact on real-world problems.<br><br>
-⚽ I'm a football fan, especially the **England Premier League** 🏃🏼‍♂️<img width="100" height="30" src= "https://c7.alamy.com/comp/2T22ECA/premier-league-colorful-logo-english-professional-football-league-system-vector-illustration-abstract-image-2T22ECA.jpg">
+⚽ I'm a football fan, especially the **England Premier League** 🏃🏼‍♂️<img width="80" height="20" src= "https://c7.alamy.com/comp/2T22ECA/premier-league-colorful-logo-english-professional-football-league-system-vector-illustration-abstract-image-2T22ECA.jpg">
 
  </div>
  
