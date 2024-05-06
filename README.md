@@ -48,7 +48,7 @@
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="matplotlib" style="border-radius: 40;" alt="mssql" width="50" height="50"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" alt="tableau" alt="tableau" width="50" height="50" style="border-radius: 40;"> </a>
   <br>  
-  <img src="https://skillicons.dev/icons?i=github,git,anaconda,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,bash,git,anaconda,vscode" />
  
 
 <hr/>
